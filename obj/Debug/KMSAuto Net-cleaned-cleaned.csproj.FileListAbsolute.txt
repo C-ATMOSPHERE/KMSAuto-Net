@@ -1,0 +1,16 @@
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.AutoMode.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.EnterGvlk.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.Form1.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.FormHelp.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.FormKmsHelp.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.GetHwidKms.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.HookSetting.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.KmsSetting.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.NoAutoSettings.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.OfficeConvert.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.Resources.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.TapSettings.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.Utilities.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto_Net.WinDivertSettings.resources
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto Net-cleaned-cleaned.csproj.GenerateResource.Cache
+D:\Desktop\KMSAuto Net-cleaned-cleaned\obj\Debug\KMSAuto Net-cleaned-cleaned.csproj.CoreCompileInputs.cache
